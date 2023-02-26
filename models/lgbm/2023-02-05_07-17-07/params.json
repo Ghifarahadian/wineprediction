@@ -1,0 +1,1 @@
+{"lambda_l1": 0.20597086604567905, "lambda_l2": 4.510770022166409, "num_leaves": 98, "feature_fraction": 0.5473206500465357, "bagging_fraction": 0.01917486326557949, "bagging_freq": 4, "min_child_samples": 54, "min_data_in_leaf": 52, "max_depth": 2}
